@@ -22,6 +22,7 @@ input.forEach(function(line) {
 console.log("Result: " + Math.abs(horizontal) * Math.abs(depth));
 
 // --- Part Two ---
+
 let aim = 0;
 horizontal = 0;
 depth = 0;
