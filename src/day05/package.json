@@ -1,0 +1,12 @@
+{
+  "name": "day05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day05.js",
+  "scripts": {
+    "start": "node day05.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
