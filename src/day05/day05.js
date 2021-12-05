@@ -1,5 +1,5 @@
 var fs = require("fs");
-var input = fs.readFileSync("../../input/day05.txt").toString('utf-8').split("\n");
+var input = fs.readFileSync("./input/day05.txt").toString('utf-8').split("\n");
 
 console.log("Part 1 solution: " + getOverlapCount(false, input));
 console.log("Part 2 solution: " + getOverlapCount(true, input))

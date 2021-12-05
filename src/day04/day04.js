@@ -1,5 +1,5 @@
 var fs = require("fs");
-var input = fs.readFileSync("../../input/day04.txt").toString('utf-8').split("\n");
+var input = fs.readFileSync("./input/day04.txt").toString('utf-8').split("\n");
 
 const GRID_SIZE = 5;
 

@@ -1,0 +1,46 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "<https://adventofcode.com/2021>",
+  "main": "index.js",
+  "scripts": {
+    "day01": "nodemon src/day01/day01.js",
+    "day02": "nodemon src/day02/day02.js",
+    "day03": "nodemon src/day03/day03.js",
+    "day04": "nodemon src/day04/day04.js",
+    "day05": "nodemon src/day05/day05.js",
+    "day06": "nodemon src/day06/day06.js",
+    "day07": "nodemon src/day07/day07.js",
+    "day08": "nodemon src/day08/day08.js",
+    "day09": "nodemon src/day09/day09.js",
+    "day10": "nodemon src/day10/day10.js",
+    "day11": "nodemon src/day11/day11.js",
+    "day12": "nodemon src/day12/day12.js",
+    "day13": "nodemon src/day13/day13.js",
+    "day14": "nodemon src/day14/day14.js",
+    "day15": "nodemon src/day15/day15.js",
+    "day16": "nodemon src/day16/day16.js",
+    "day17": "nodemon src/day17/day17.js",
+    "day18": "nodemon src/day18/day18.js",
+    "day19": "nodemon src/day19/day19.js",
+    "day20": "nodemon src/day20/day20.js",
+    "day21": "nodemon src/day21/day21.js",
+    "day22": "nodemon src/day22/day22.js",
+    "day23": "nodemon src/day23/day23.js",
+    "day24": "nodemon src/day24/day24.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmelto/advent-of-code-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmelto/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/schmelto/advent-of-code-2021#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
