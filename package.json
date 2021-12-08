@@ -28,7 +28,7 @@
     "day22": "nodemon src/day22/day22.js",
     "day23": "nodemon src/day23/day23.js",
     "day24": "nodemon src/day24/day24.js",
-    "test": "jest"
+    "test": ""
   },
   "repository": {
     "type": "git",
